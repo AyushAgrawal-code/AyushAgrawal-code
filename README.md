@@ -23,7 +23,7 @@
 - **Cloud Deployment & DevOps**  
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushxcode&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushAgrawal-code&show_icons=true&theme=radical)  
 
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agrawal-5b96b32a1)  
