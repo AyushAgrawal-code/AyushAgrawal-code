@@ -1,9 +1,10 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ayush Agrawal!
 
 ### 🚀 About Me  
 - 🎓 **Student | Developer | Cybersecurity Enthusiast**  
 - 💡 Passionate about **building projects** and learning new technologies  
 - 🏆 **Winner of Hack Arena at GNIT**  
+- 🏆 **Second position in CYBER Hackathon by Police Dept Gwalior**  
 - 🎭 **Founder of EchoMoments** - An Event Photo Sharing Platform  
 - 🌐 **Working on SuvidhaGo** - Simplifying Government Document Assistance  
 
@@ -16,17 +17,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
 ### 🌱 Currently Learning  
 - **Full Stack Development**  
 - **AI & Facial Recognition**  
 - **Cloud Deployment & DevOps**  
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushxcode&show_icons=true&theme=radical)  
 
 ### 📬 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/ayush-agrawal-5b96b32a1)  
-[![Portfolio](https://iphotographyportfolio.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agrawal-5b96b32a1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://iphotographyportfolio.netlify.app/)  
 
-🚀 **Let's collaborate on amazing projects!**  
+🚀 **Let's collaborate on amazing projects!**
