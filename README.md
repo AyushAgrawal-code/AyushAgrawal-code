@@ -6,8 +6,7 @@
 - 🏆 **Winner of Hack Arena at GNIT**  
 - 🏆 **Second position in CYBER Hackathon by Police Dept Gwalior**  
 - 🎭 **Founder of EchoMoments** - An Event Photo Sharing Platform  
-- 🌐 **Working on SuvidhaGo** - Simplifying Government Document Assistance  
-- ✨ participated in **5+ hackathons** (2 in current)
+- ✨ participated in **5+ hackathons** 
 ### 🛠️ Tech Stack  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
